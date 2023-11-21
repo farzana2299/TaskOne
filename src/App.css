@@ -3,8 +3,8 @@
 }
 .f1{
 position: relative;
-top: 100px;
-background-color: blanchedalmond;
+top: 10%;
+/* background-color: blanchedalmond; */
 }
 .br{
   position: relative;
@@ -12,10 +12,24 @@ background-color: blanchedalmond;
 }
 .ba{
   position: relative;
-  left: 850px;
+  left: 65%;
 }
 .bs
 {
   position: relative;
-  left:480px;
+  left:50%;
+}
+.mdiv
+{
+  background-color: rgb(205, 205, 253);
+  border-radius: 8px;
+  padding: 2%;
+  display: block;
+  width: 90%;
+  display: block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+h1{
+  color: darkblue;
 }
